@@ -1,5 +1,5 @@
 import numpy as np
-import matplotlib.pyplot as pls
+import matplotlib.pyplot as plt
 
 # 1. Create some fake data (y = 2x + 3 + noise)
 np.random.seed(42)
